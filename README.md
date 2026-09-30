@@ -12,21 +12,14 @@ La idea de este repo es servir como ejemplo básico para trabajar con:
 - estructura de una app en React
 - uso de Vite y JavaScript
 
-## Objetivo
-
-Este proyecto tiene fines educativos y está diseñado para que los estudiantes:
-
-- comprendan la organización de un proyecto React
-- practiquen la creación de componentes reutilizables
-- aprendan a manejar la navegación entre vistas
-- experimenten con el desarrollo de una pequeña aplicación web
-
 ## Tecnologías utilizadas
 
+- NodeJS 
 - React
 - Vite
-- JavaScript
-- CSS
+- Bootstrap
+- Git/GitHub
+- Vercel
 
 ## Estructura del proyecto
 
@@ -70,8 +63,4 @@ Se recomienda:
 - probar cambios pequeños
 - experimentar con componentes y estilos
 - consultar la documentación oficial de React cuando sea necesario
-
-## Autor
-
-Proyecto educativo para práctica de alumnos de programación.
 
