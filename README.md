@@ -14,12 +14,12 @@ La idea de este repo es servir como ejemplo básico para trabajar con:
 
 ## Tecnologías utilizadas
 
-- NodeJS 
-- React
-- Vite
-- Bootstrap
-- Git/GitHub
-- Vercel
+- [Node.js](https://nodejs.org/es/docs)
+- [React](https://es.react.dev/learn)
+- [Vite](https://vitejs.dev/guide/)
+- [Bootstrap](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
+- [Git/GitHub](https://docs.github.com/es)
+- [Vercel](https://vercel.com/docs)
 
 ## Estructura del proyecto
 
@@ -51,10 +51,6 @@ npm run dev
 
 4. Abrir la aplicación en el navegador en la URL que indique Vite.
 
-## Importante
-
-Este proyecto es un repositorio de prueba y de aprendizaje. Está pensado para que los alumnos puedan explorar, modificar y mejorar la aplicación mientras desarrollan sus habilidades en programación y React.
-
 ## Nota para alumnos
 
 Se recomienda:
@@ -62,5 +58,12 @@ Se recomienda:
 - leer el código paso a paso
 - probar cambios pequeños
 - experimentar con componentes y estilos
-- consultar la documentación oficial de React cuando sea necesario
+- consultar la documentación oficial de React, Vite y Bootstrap cuando sea necesario
+
+### Documentación oficial
+
+- [Documentación oficial de React](https://es.react.dev/)
+- [Guía de Vite](https://vitejs.dev/guide/)
+- [Documentación de Bootstrap](https://getbootstrap.com/docs/5.3/)
+- [Documentación de JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript)
 
