@@ -48,10 +48,8 @@ npm run dev
 
 4. Abrir la aplicación en el navegador en la URL que indique Vite.
 
-### Documentación oficial
+### Documentación de refuerzo
 
-- [Documentación oficial de React](https://es.react.dev/)
-- [Guía de Vite](https://vitejs.dev/guide/)
 - [Documentación de Bootstrap](https://getbootstrap.com/docs/5.3/)
 - [Documentación de JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript)
 
