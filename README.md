@@ -11,6 +11,7 @@ Este repositorio es un proyecto de práctica pensado para alumnos de la carrera 
 Tecnologías utilizadas:
 
 - [Node.js](https://nodejs.org/es/docs)
+- [NPM](https://www.npmjs.com/)
 - [React](https://es.react.dev/learn)
 - [Vite](https://vitejs.dev/guide/)
 - [React - Bootstrap](https://react-bootstrap.github.io/)
