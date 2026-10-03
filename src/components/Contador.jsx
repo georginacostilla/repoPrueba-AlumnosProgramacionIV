@@ -13,10 +13,10 @@ const Contador = () => {
           <Card className="border-0 rounded-4 shadow-sm text-center">
             <Card.Body className="p-4 p-md-5">
               <Card.Title as="h2" className="mb-2">
-                Contador
+                Este es un ejemplo de un contador utilizando: <strong>useState</strong>
               </Card.Title>
               <Card.Text className="text-secondary mb-4">
-                Este es un ejemplo de un contador usando useState.
+                Trabajo práctico nro. 7 - Comisión X
               </Card.Text>
 
               <p className="display-3 fw-bold text-primary mb-4" aria-live="polite">
