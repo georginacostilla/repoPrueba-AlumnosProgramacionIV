@@ -13,7 +13,7 @@ Tecnologías utilizadas:
 - [Node.js](https://nodejs.org/es/docs)
 - [React](https://es.react.dev/learn)
 - [Vite](https://vitejs.dev/guide/)
-- [Bootstrap](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
+- [React - Bootstrap](https://react-bootstrap.github.io/)
 - [Git/GitHub](https://docs.github.com/es)
 - [Vercel](https://vercel.com/docs)
 
