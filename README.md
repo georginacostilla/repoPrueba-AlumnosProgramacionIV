@@ -1,10 +1,14 @@
 # Repo de prueba para alumnos de Programación IV 
-
-<img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm1obHl2YnFvbDliZG8yYjJ6YjEwa3c5Z3Y0bHY0dWl0YzEwMTNwYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif"/>
-
 Este repositorio es un proyecto de práctica pensado para alumnos de la carrera de Programación de la UTN-FRT que están aprendiendo React.
 
-## Tecnologías utilizadas
+<img
+  align="right"
+  src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm1obHl2YnFvbDliZG8yYjJ6YjEwa3c5Z3Y0bHY0dWl0YzEwMTNwYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif"
+  width="400"
+  style="margin-left: 20px; margin-bottom: 15px;"
+/>
+
+Tecnologías utilizadas:
 
 - [Node.js](https://nodejs.org/es/docs)
 - [React](https://es.react.dev/learn)
