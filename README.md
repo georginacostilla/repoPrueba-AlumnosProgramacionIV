@@ -11,9 +11,10 @@ Este repositorio es un proyecto de práctica pensado para alumnos de la carrera 
 Tecnologías utilizadas:
 
 - [Node.js](https://nodejs.org/es/docs)
+- [NPM](https://www.npmjs.com/)
 - [React](https://es.react.dev/learn)
 - [Vite](https://vitejs.dev/guide/)
-- [Bootstrap](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
+- [React - Bootstrap](https://react-bootstrap.github.io/)
 - [Git/GitHub](https://docs.github.com/es)
 - [Vercel](https://vercel.com/docs)
 
@@ -47,10 +48,8 @@ npm run dev
 
 4. Abrir la aplicación en el navegador en la URL que indique Vite.
 
-### Documentación oficial
+### Documentación de refuerzo
 
-- [Documentación oficial de React](https://es.react.dev/)
-- [Guía de Vite](https://vitejs.dev/guide/)
 - [Documentación de Bootstrap](https://getbootstrap.com/docs/5.3/)
 - [Documentación de JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript)
 
