@@ -1,16 +1,8 @@
-# Repo de prueba para alumnos de programación
+# Repo de prueba para alumnos de Programación IV 
+
+<img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm1obHl2YnFvbDliZG8yYjJ6YjEwa3c5Z3Y0bHY0dWl0YzEwMTNwYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif"/>
 
 Este repositorio es un proyecto de práctica pensado para alumnos de la carrera de Programación de la UTN-FRT que están aprendiendo React.
-
-La idea de este repo es servir como ejemplo básico para trabajar con:
-
-- componentes
-- props
-- estados
-- rutas
-- navegación entre páginas
-- estructura de una app en React
-- uso de Vite y JavaScript
 
 ## Tecnologías utilizadas
 
@@ -50,15 +42,6 @@ npm run dev
 ```
 
 4. Abrir la aplicación en el navegador en la URL que indique Vite.
-
-## Nota para alumnos
-
-Se recomienda:
-
-- leer el código paso a paso
-- probar cambios pequeños
-- experimentar con componentes y estilos
-- consultar la documentación oficial de React, Vite y Bootstrap cuando sea necesario
 
 ### Documentación oficial
 

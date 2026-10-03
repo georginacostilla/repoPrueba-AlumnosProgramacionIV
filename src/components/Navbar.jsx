@@ -1,24 +1,35 @@
-import Container from 'react-bootstrap/Container';
-import Nav from 'react-bootstrap/Nav';
-import Navbar from 'react-bootstrap/Navbar';
-import { Link } from 'react-router-dom';
+import { Button, Container, Nav, Navbar } from 'react-bootstrap'
+import { Link, NavLink } from 'react-router-dom'
 
-function BasicExample() {
+function NavigationBar() {
   return (
-    <Navbar expand="lg" className="bg-body-tertiary">
+    <Navbar expand="lg" bg="primary" data-bs-theme="dark" className="py-3 shadow-sm">
       <Container>
-        <Navbar.Brand as={Link} to="/">ComisionX</Navbar.Brand>
+        <Navbar.Brand as={Link} to="/" className="fw-bold">
+          ComisionX
+        </Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
-          <Nav className="me-auto">
-            <Nav.Link as={Link} to="/">Inicio</Nav.Link>
-            <Nav.Link as={Link} to="/contacto">Contacto</Nav.Link>
-            <Nav.Link as={Link} to="/login">Login</Nav.Link>
+          <Nav className="ms-auto align-items-lg-center gap-lg-2">
+            <Nav.Link as={NavLink} to="/" end>
+              Inicio
+            </Nav.Link>
+            <Nav.Link as={NavLink} to="/contacto">
+              Contacto
+            </Nav.Link>
+            <Button
+              as={Link}
+              to="/login"
+              variant="light"
+              className="mt-2 mt-lg-0 ms-lg-2 fw-semibold text-primary text-opacity-75"
+            >
+              Iniciar sesión
+            </Button>
           </Nav>
         </Navbar.Collapse>
       </Container>
     </Navbar>
-  );
+  )
 }
 
-export default BasicExample;
+export default NavigationBar

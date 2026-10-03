@@ -5,14 +5,14 @@ import Contacto from "../../pages/Contacto";
 import Login from "../../pages/Login";
 
 const Rutas = () => {
-    return (
-        <Routes>
-            <Route path="/" element={<Home />} />
-            <Route path="/contacto" element={<Contacto />} />
-            <Route path="/login" element={<Login />} />
-            <Route path="*" element={<Error404 />} />
-        </Routes>
-    )
+  return (
+    <Routes>
+      <Route path="/" element={<Home />} />
+      <Route path="/contacto" element={<Contacto />} />
+      <Route path="/login" element={<Login />} />
+      <Route path="*" element={<Error404 />} />
+    </Routes>
+  )
 }
 
 export default Rutas

@@ -1,68 +1,68 @@
 .saludo-card {
-    max-width: 560px;
-    margin: 2rem auto;
-    padding: 1.5rem 1.75rem;
-    border-radius: 20px;
-    background: linear-gradient(135deg, rgba(255, 255, 255, 0.9), rgba(220, 239, 255, 0.9));
-    border: 1px solid var(--color-borde);
-    box-shadow: var(--shadow-suave);
+  max-width: 560px;
+  margin: 2rem auto;
+  padding: 1.5rem 1.75rem;
+  border-radius: 20px;
+  background: linear-gradient(135deg, rgba(255, 255, 255, 0.9), rgba(220, 239, 255, 0.9));
+  border: 1px solid var(--color-borde);
+  box-shadow: var(--shadow-suave);
 }
 
 .saludo-header {
-    margin-bottom: 1rem;
+  margin-bottom: 1rem;
 }
 
 .saludo-badge {
-    display: inline-block;
-    background: #e0f3ff;
-    color: #0b5ed7;
-    padding: 0.35rem 0.7rem;
-    border-radius: 999px;
-    font-size: 0.72rem;
-    font-weight: 700;
-    letter-spacing: 0.05em;
-    text-transform: uppercase;
+  display: inline-block;
+  background: #e0f3ff;
+  color: #0b5ed7;
+  padding: 0.35rem 0.7rem;
+  border-radius: 999px;
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
 }
 
 .saludo-card h2 {
-    margin-top: 0.8rem;
-    margin-bottom: 0;
-    font-size: 1.7rem;
-    color: var(--color-texto);
+  margin-top: 0.8rem;
+  margin-bottom: 0;
+  font-size: 1.7rem;
+  color: var(--color-texto);
 }
 
 .saludo-texto,
 .saludo-personalizado {
-    margin: 0.75rem 0;
-    font-size: 1.05rem;
-    font-weight: 600;
-    color: var(--color-texto);
+  margin: 0.75rem 0;
+  font-size: 1.05rem;
+  font-weight: 600;
+  color: var(--color-texto);
 }
 
 .saludo-materias {
-    margin-top: 1rem;
+  margin-top: 1rem;
 }
 
 .saludo-materias p {
-    margin: 0 0 0.7rem;
-    font-weight: 600;
-    color: #194a72;
+  margin: 0 0 0.7rem;
+  font-weight: 600;
+  color: #194a72;
 }
 
 .saludo-materias ul {
-    list-style: none;
-    display: flex;
-    flex-wrap: wrap;
-    gap: 0.6rem;
-    padding: 0;
-    margin: 0;
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+  padding: 0;
+  margin: 0;
 }
 
 .saludo-materias li {
-    background: #edf7ff;
-    border: 1px solid #cde8ff;
-    color: #0a4575;
-    border-radius: 999px;
-    padding: 0.45rem 0.8rem;
-    font-size: 0.92rem;
+  background: #edf7ff;
+  border: 1px solid #cde8ff;
+  color: #0a4575;
+  border-radius: 999px;
+  padding: 0.45rem 0.8rem;
+  font-size: 0.92rem;
 }

@@ -1,19 +1,19 @@
 import './Saludo.css'
 
-const nombre = 'Georg'
-const apellido = 'Gonzalez'
-const materias = ['Matematica', 'Fisica', 'Quimica', 'Historia', 'Lengua']
+const nombre = 'Eugenia'
+const apellido = 'Nuñez'
+const materias = ['Programación', 'Bases de datos', 'Matemáticas', 'Gestión de Desarrollo de Software']
 
-const Saludo = ({ nombre2, apellido2 }) => {
+const Saludo = ({ nombreProfe, apellidoProfe }) => {
   return (
     <section className="saludo-card">
       <div className="saludo-header">
         <span className="saludo-badge">Bienvenida</span>
-        <h2>Bienvenido a mi primer proyecto de React</h2>
+        <h2>En este componente estoy practicando <strong>Props y Map</strong></h2>
       </div>
 
       <p className="saludo-texto">
-        Hola, {nombre} {apellido}!
+        Dirección a cargo de: {nombre} {apellido}
       </p>
 
       <div className="saludo-materias">
@@ -26,7 +26,7 @@ const Saludo = ({ nombre2, apellido2 }) => {
       </div>
 
       <p className="saludo-personalizado">
-        Hola {nombre2} {apellido2}!
+        Profesora: {nombreProfe} {apellidoProfe}
       </p>
     </section>
   )
