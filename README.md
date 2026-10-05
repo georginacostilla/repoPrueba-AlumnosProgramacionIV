@@ -8,7 +8,7 @@ Este repositorio es un proyecto de práctica pensado para alumnos de la carrera 
   style="margin-left: 20px; margin-bottom: 15px;"
 />
 
-Tecnologías utilizadas:
+Herramientas:
 
 - [Node.js](https://nodejs.org/es/docs)
 - [NPM](https://www.npmjs.com/)
