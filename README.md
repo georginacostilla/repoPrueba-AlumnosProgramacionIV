@@ -17,6 +17,7 @@ Tecnologías utilizadas:
 - [React - Bootstrap](https://react-bootstrap.github.io/)
 - [Git/GitHub](https://docs.github.com/es)
 - [Vercel](https://vercel.com/docs)
+- [SweetAlert](https://sweetalert2.github.io/)
 
 ## Estructura del proyecto
 
