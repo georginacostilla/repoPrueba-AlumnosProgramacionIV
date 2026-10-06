@@ -1,10 +1,15 @@
-// Uso de UseState para crear un contador
+// Uso de useState y useEffect para crear un contador
 
-import { useState } from 'react'
+import { useEffect, useState } from 'react'
 import { Button, Card, Col, Container, Row } from 'react-bootstrap'
 
 const Contador = () => {
   const [contador, setContador] = useState(0)
+
+  // Actualizar el título de la pestaña cuando cambia el contador
+  useEffect(() => {
+    document.title = `Contador: ${contador}`
+  }, [contador])
 
   return (
     <Container className="py-5">
