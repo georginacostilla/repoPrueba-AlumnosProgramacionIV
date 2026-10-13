@@ -21,6 +21,12 @@ function NavigationBar() {
             <Nav.Link as={NavLink} to="/contacto">
               Contacto
             </Nav.Link>
+            <Nav.Link as={NavLink} to="/libros">
+              Libros
+            </Nav.Link>
+            <Nav.Link as={NavLink} to="/publicaciones">
+              Publicaciones
+            </Nav.Link>
             <Button
               as={Link}
               to="/login"
